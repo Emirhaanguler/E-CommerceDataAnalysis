@@ -61,3 +61,7 @@ Model: XGBoost veya Random Forest
 Neden: Bu modeller, çoklu bağımsız değişkenlerin etkilerini anlamak ve yüksek doğrulukta tahminler yapmak için uygundur. Müşteri segmentleri, harcama alışkanlıkları ve diğer değişkenler tahminlerde kullanılabilir.
 
 
+
+Projemi kaggle ortamında gerçekleştirdim ve kod bloğumun yer aldığı dosya linkini ekliyorum:
+https://www.kaggle.com/code/emirhaangulerr/e-commercedataanalysis/edit
+
